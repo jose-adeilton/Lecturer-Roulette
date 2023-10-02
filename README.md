@@ -89,7 +89,7 @@ The program offers two versions: Full and Lite.
 
 ## How to Use
 
-To add data from a CSV or Excel spreadsheet, it is necessary to create two columns: one called 'Students' and the other 'Already Drawn'. The 'Already Drawn' column should be filled with zeros for each student name added in the 'Students' column.
+To add data from a CSV or Excel spreadsheet, it is necessary to create two columns: one called 'Alunos'(Students) and the other 'já Sorteados'(Already Drawn). The 'Already Drawn' column should be filled with zeros for each student name added in the 'Students' column.
 
 Make sure you have the following packages installed: pandas, tabulate, matplotlib.pyplot, matplotlib.patheffects, pygame, IPython, threading.
 
